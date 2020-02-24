@@ -1,0 +1,1 @@
+szybki zaznaczyc element do skomentowania nastepnie lewy ctrl+/ usuniecie komentarza lewy ctrl+\

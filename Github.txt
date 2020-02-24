@@ -1,0 +1,16 @@
+Komendy w GitBash :
+- clear (czyści okno poleceń).
+- cd (przechodzenie do pliku/folderu)
+- cd .. (powrót do poprzedniego folderu)
+- cd ~ (powrót do katalogu głównego)
+- pwd (sprawdzenie ścieżki folderu)
+- ls/dir (wyświetlanie elementów w folderze)
+- mkdir (stowrzenie folderu)
+- touch (storzenie pliku)
+- notepad ( otworzenie pliku)
+- code (otworzenie pliku w VSC)
+- >> (tworzenie pliku)
+- echo (tworzenie pliku)
+- rm+nazwa pliku (usunięcie danego pliku)
+- rm *.html (usunięcie wszystlkich plików  .html)
+
