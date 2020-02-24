@@ -31,18 +31,18 @@ nieśledzony czy śledzony zmodyfikowany).)
  - git init (stworzenie repozytorium gita tworzy folder .git)
  - git status ( informuje o tym co wie git)
 
- -- git config --global user.name (ustawienia globalne do wszystkich repozytoium)
- -- git config --global user.email
- -- git config --globa core.editor (sprawdzenie ustawienia edytora podczas instalacji)
- -- git config --global --unset (usunięcie danych)
- -- git init --help (dokumentacja)
- -- git init --h (parametry ktorych można użyć)
- -- git add + nazwa pliku 
- -- git commit 
- -- git log 
- -- git log --oneline
- -- git commit -m "tekst commitu"
- -- git add --all (dodanie wszystkich plików)
+  * git config --global user.name (ustawienia globalne do wszystkich repozytoium)
+  * git config --global user.email
+  * git config --globa core.editor (sprawdzenie ustawienia edytora podczas instalacji)
+  * git config --global --unset (usunięcie danych)
+  * git init --help (dokumentacja)
+  * git init --h (parametry ktorych można użyć)
+  * git add + nazwa pliku 
+  * git commit 
+  * git log 
+  * git log --oneline
+  * git commit -m "tekst commitu"
+  * git add --all (dodanie wszystkich plików)
 
 # Klonowanie repozytorium: #
 - git clone (folder/link który jest do sklonowania) (nazwa nowego folderu)
