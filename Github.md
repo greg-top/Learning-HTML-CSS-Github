@@ -30,6 +30,7 @@ nieśledzony czy śledzony zmodyfikowany).)
 
  - git init (stworzenie repozytorium gita tworzy folder .git)
  - git status ( informuje o tym co wie git)
+ <br/>
 
   * git config --global user.name (ustawienia globalne do wszystkich repozytoium)
   * git config --global user.email
