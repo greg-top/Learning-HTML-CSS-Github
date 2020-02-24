@@ -1,5 +1,5 @@
 
-Centrowanie przycisku
-line-hight:
-padding:
-encja "&copy;"
+#Centrowanie przycisku#  
+line-hight:  
+padding:  
+encja "&copy;"  
