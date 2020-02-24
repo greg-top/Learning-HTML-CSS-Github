@@ -1,4 +1,4 @@
-Komendy w GitBash :
+# Komendy w GitBash: #
 - clear (czyści okno poleceń).
 - cd (przechodzenie do pliku/folderu)
 - cd .. (powrót do poprzedniego folderu)
@@ -14,7 +14,7 @@ Komendy w GitBash :
 - rm+nazwa pliku (usunięcie danego pliku)
 - rm *.html (usunięcie wszystlkich plików  .html)
 
-Tworzenie repozytorium// Konfiguracja Gita :
+# Tworzenie repozytorium// Konfiguracja Gita: #
 (4 stany plików w repozytorium (dla czytelności)
 - nieśledzony (untracked) - gdy dodamy nowy plik (lub usuniemy ze
 śledzonych)
@@ -44,9 +44,7 @@ nieśledzony czy śledzony zmodyfikowany).)
 - git commit -m "tekst commitu"
 - git add --all (dodanie wszystkich plików)
 
-Klonowanie repozytorium:
+# Klonowanie repozytorium: #
 - git clone (folder/link który jest do sklonowania) (nazwa nowego folderu)
-
-
 .gitignore
 

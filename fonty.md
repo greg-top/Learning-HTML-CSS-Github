@@ -1,4 +1,4 @@
-Fonty:
+# Fonty:#
 
 Font szeryfowy - to font upiększony za pomoca dodatkowych lini.
 Font bezszeryfowy - bez upiekszeń.

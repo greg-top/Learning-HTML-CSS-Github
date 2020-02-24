@@ -1,4 +1,4 @@
- Kombinator:
+ # Kombinator: #
 h1 _ p - Spacja (potomek)
 
 p + ul - Plus (pierwszy Młodszy brat "pierwszy element siostrzany")

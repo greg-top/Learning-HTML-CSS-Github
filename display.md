@@ -1,4 +1,4 @@
-
+# Rodzaje display: #
 display:block;
 display:inline;
 display:none; / nie są wyświetlane/ 
