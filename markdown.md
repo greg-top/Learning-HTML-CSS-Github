@@ -16,7 +16,7 @@ Umieszczasz taką samą liczbę znaków skrótu, jak rozmiar żądanego nagłów
 Zasadniczo nagłówki 1 i 6 powinny być używane oszczędnie.
 nie można pogrubić nagłówka, ale można wyróżnić niektóre słowa kursywą.
 
-Istnieją dwa różne typy łączy w Markdown, ale oba renderują dokładnie w ten sam sposób.
+Istnieją dwa różne typy łączy w Markdown, ale oba renderują dokładnie w ten sam sposób.  
  Pierwszy styl łącza nazywa się łączem wbudowanym . Aby utworzyć łącze wbudowane,
  zawiń tekst łącza w nawiasach ( [ ]), a następnie zawiń łącze w nawiasie ( ( )).
  Na przykład, aby utworzyć hiperłącze do www.github.com, z tekstem link, który mówi, Wizyta GitHub !,
