@@ -1,5 +1,5 @@
 # Pozycjonowanie:
-_daje możliwość manipulowania danego elementu nie zależnie od jego markapem._
+_Daje możliwość manipulowania danego elementu nie zależnie od jego markapem._
 ### position: relative; ###  
 **.klasa {   
     position: relative;   
@@ -24,31 +24,31 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
 - Position:absolute pozycjonowane jest względem _*documents initial containing block*_ ma rozmiaru viewportu.
 - Żeby ustawiać względem rodzica należy dodać do rodzica position:relative; np:
 
-<style> 
-    **.box {
-    width:100px;
-    height:100px;
-}
-.container {
-    position:relative;   
-    display:flex;
-    flex-wrap:wrap;
-}
-.absolute {
-    position:absolute;
-    bottom:0;
-    right:0;
-}
-</style>
-<body>
-    <div class="container">
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box absolute"></div>
-        <div class="box"></div>
-        <div class="box "></div>
-    </div>
-</body>
+<style>    
+ .box {   
+    width:100px;   
+    height:100px;   
+}   
+.container {   
+    position:relative;     
+    display:flex;   
+    flex-wrap:wrap;   
+}   
+.absolute {   
+    position:absolute;   
+    bottom:0;   
+    right:0;   
+}   
+</style>   
+<body>   
+    <div class="container">   
+        <div class="box"></div>   
+        <div class="box"></div>   
+        <div class="box absolute"></div>   
+        <div class="box"></div>   
+        <div class="box "></div>   
+    </div>   
+</body>   
 
 - Po takim zapisie *div* ustawi się w prawym dolnym rogu rodzica.
 
