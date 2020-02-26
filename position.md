@@ -1,12 +1,12 @@
 # Pozycjonowanie:
 _daje możliwość manipulowania danego elementu nie zależnie od jego markapem._
 ### position: relative; ###  
-**.klasa {
-    position: relative;
-   top: ;
-   bottom:;
-   left:;
-   right:; 
+**.klasa {   
+    position: relative;   
+   top: ;   
+   bottom:;   
+   left:;   
+   right:;   
 }**
 - sama klasa z position relative nie wpływa na pozycje danego elementu.
 - Po przesunięciu ustawia sie względem swojej pozycji starowej.
