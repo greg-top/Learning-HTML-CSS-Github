@@ -6,12 +6,12 @@ Aby utworzyć nagłówki w Markdown, należy poprzedzić frazę znakiem krzyżyk
 Umieszczasz taką samą liczbę znaków skrótu, jak rozmiar żądanego nagłówka.
  Na przykład dla nagłówka pierwszego użyłbyś jednego znaku krzyżyka 
 ( # Header One), a dla nagłówka trzeciego - trzech ( ### Header Three).
-#Nagłówek 1#
-##Nagłówek 2##
-###Nagłówek 3###
-####Nagłówek 4####
-#####Nagłówek 5#####
-######Nagłówek 6######
+# Nagłówek 1 #
+## Nagłówek 2 ##
+### Nagłówek 3 ###
+#### Nagłówek 4 ####
+##### Nagłówek 5 #####
+###### Nagłówek 6 ######
 
 Zasadniczo nagłówki 1 i 6 powinny być używane oszczędnie.
 nie można pogrubić nagłówka, ale można wyróżnić niektóre słowa kursywą.
