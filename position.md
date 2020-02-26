@@ -25,6 +25,7 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
 - Żeby ustawiać względem rodzica należy dodać do rodzica position:relative; np:
 
 <style>    
+    
  .box {   
     width:100px;   
     height:100px;   
@@ -39,8 +40,11 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
     bottom:0;   
     right:0;   
 }   
+
 </style>   
-<body>   
+
+**<body>**   
+    
     <div class="container">   
         <div class="box"></div>   
         <div class="box"></div>   
@@ -48,6 +52,7 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
         <div class="box"></div>   
         <div class="box "></div>   
     </div>   
+    
 </body>   
 
 - Po takim zapisie *div* ustawi się w prawym dolnym rogu rodzica.
