@@ -17,7 +17,7 @@ Zasadniczo nagłówki 1 i 6 powinny być używane oszczędnie.
 nie można pogrubić nagłówka, ale można wyróżnić niektóre słowa kursywą.
 
 Istnieją dwa różne typy łączy w Markdown, ale oba renderują dokładnie w ten sam sposób.  
- Pierwszy styl łącza nazywa się łączem wbudowanym .  Aby utworzyć łącze wbudowane,
+ Pierwszy styl łącza nazywa się łączem wbudowanym.  Aby utworzyć łącze wbudowane,
  zawiń tekst łącza w nawiasach ( [ ]), a następnie zawiń łącze w nawiasie ( ( )).
  Na przykład, aby utworzyć hiperłącze do www.github.com, z tekstem link, który mówi, Wizyta GitHub !,
  chcesz napisać to w Markdown: [Visit GitHub!](www.github.com).
