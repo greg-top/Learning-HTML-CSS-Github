@@ -24,28 +24,28 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
 - Position:absolute pozycjonowane jest względem _*documents initial containing block*_ ma rozmiaru viewportu.
 - Żeby ustawiać względem rodzica należy dodać do rodzica position:relative; np:
 
-style    
+**style**    
     
- .box {   
+ **.box {   
     width:100px;   
     height:100px;   
-}  
+}**  
 
-.container {   
+**.container {   
     position:relative;     
     display:flex;   
     flex-wrap:wrap;   
-}   
+}**   
 
-.absolute {   
+**.absolute {   
     position:absolute;   
     bottom:0;   
     right:0;   
-}   
+}**   
 
-/style
+**/style**
 
-<body>  
+**body**  
     
     <div class="container">   
         <div class="box"></div>   
@@ -55,7 +55,7 @@ style
         <div class="box "></div>   
     </div>   
     
-</body>   
+**/body** 
 
 - Po takim zapisie *div* ustawi się w prawym dolnym rogu rodzica.
 
