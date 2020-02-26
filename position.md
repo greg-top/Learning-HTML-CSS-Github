@@ -1,16 +1,16 @@
 # Pozycjonowanie:
 _daje możliwość manipulowania danego elementu nie zależnie od jego markapem._
 ### position: relative; ###  
-*.klasa {*
-    *position: relative;*
+.klasa {
+    position: relative;
     
-   * top: ;*
+   top: ;
     
-   * bottom:;*
+    bottom:;
     
-   * left:;*
+    left:;
     
-   * right:;*
+    right:;
     
 }*
 - sama klasa z position relative nie wpływa na pozycje danego elementu.
@@ -30,7 +30,7 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
     
     right:;
     
-}*
+}
 - Można ustalać położenie danego elementu nie zależnie odjego markapu.
 - Position:absolute pozycjonowane jest względem _*documents initial containing block*_ ma rozmiaru viewportu.
 - Żeby ustawiać względem rodzica należy dodać do rodzica position:relative; np:
