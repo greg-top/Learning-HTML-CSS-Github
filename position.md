@@ -29,12 +29,14 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
  .box {   
     width:100px;   
     height:100px;   
-}   
+}  
+
 .container {   
     position:relative;     
     display:flex;   
     flex-wrap:wrap;   
 }   
+
 .absolute {   
     position:absolute;   
     bottom:0;   
@@ -43,7 +45,7 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
 
 </style>   
 
-**<body>**   
+<body>  
     
     <div class="container">   
         <div class="box"></div>   
