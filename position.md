@@ -24,7 +24,7 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
 - Position:absolute pozycjonowane jest względem _*documents initial containing block*_ ma rozmiaru viewportu.
 - Żeby ustawiać względem rodzica należy dodać do rodzica position:relative; np:
 
-<style>    
+style    
     
  .box {   
     width:100px;   
@@ -43,7 +43,7 @@ _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
     right:0;   
 }   
 
-</style>   
+/style
 
 <body>  
     
