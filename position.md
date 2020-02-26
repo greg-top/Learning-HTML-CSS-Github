@@ -3,10 +3,15 @@ _daje możliwość manipulowania danego elementu nie zależnie od jego markapem.
 ### position: relative; ###  
 *.klasa {
     position: relative;
+    
     top: ;
+    
     bottom:;
+    
     left:;
+    
     right:;
+    
 }*
 - sama klasa z position relative nie wpływa na pozycje danego elementu.
 - Po przesunięciu ustawia sie względem swojej pozycji starowej.
@@ -15,10 +20,15 @@ _daje możliwość manipulowania danego elementu nie zależnie od jego markapem.
 _Sprawia że dany element wyskakuje z normalnego porządku na stronie._
 *.klasa {*  
     *position: absolute;*  
+    
     *top: ;*  
+    
     *bottom:;*  
+    
     *left:;*  
+    
     *right:;*  
+    
 }*
 - Można ustalać położenie danego elementu nie zależnie odjego markapu.
 - Position:absolute pozycjonowane jest względem _*documents initial containing block*_ ma rozmiaru viewportu.
