@@ -1,5 +1,5 @@
 np.  
-body {  
+selektor np:body {  
 	background-image:linear-gradient(  
 	to bottom /to left/ to right/ to top/// 30deg (Kąt)  
 	yellow,  
