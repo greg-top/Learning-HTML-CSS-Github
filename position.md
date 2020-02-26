@@ -12,13 +12,13 @@ _daje możliwość manipulowania danego elementu nie zależnie od jego markapem.
 - Po przesunięciu ustawia sie względem swojej pozycji starowej.
 - Można wykorzystywać do przesuwania *transform: translateX/translateY(px)* 
 ### position: absolute; ###
-_Sprawia że dany element wyskakuje z normalnego porządku na stronie._
-**.klasa {
-    position: absolute;
-    top: ;
-    bottom:;
-    left:;
-    right:;
+_Sprawia że dany element wyskakuje z normalnego porządku na stronie._   
+**.klasa {   
+    position: absolute;   
+    top:;   
+    bottom:;   
+    left:;   
+    right:;   
 }**
 - Można ustalać położenie danego elementu nie zależnie odjego markapu.
 - Position:absolute pozycjonowane jest względem _*documents initial containing block*_ ma rozmiaru viewportu.
