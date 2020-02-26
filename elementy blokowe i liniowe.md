@@ -17,8 +17,8 @@
   * section,  
   * table,  
   * ul.  
-  Niezależnie od wielkości zaczynaja od nowej lini. domyślnie mają 100% swojego rodzica
-  .wysokość tyle ile potrzebuje. 
+  **Niezależnie od wielkości zaczynaja od nowej lini. domyślnie mają 100% swojego rodzica**
+  **.wysokość tyle ile potrzebuje.** 
 
 **Elementy liniowe:**
 * to m.in.:  
@@ -29,7 +29,6 @@
   * img,  
   * span,  
   * strong.  
-  Technicznie nie tworzą nowej linii jak elementy blokowe.
- Wysokość i szerokość
-elementu liniowego zależa od rozmiaru jego zawartości.
+ **Technicznie nie tworzą nowej linii jak elementy blokowe.**
+ **Wysokość i szerokość elementu liniowego zależa od rozmiaru jego zawartości.**
 ___________________________________________________________________________________
