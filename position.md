@@ -11,7 +11,7 @@ _Daje możliwość manipulowania danego elementu nie zależnie od jego markapem.
 - sama klasa z position relative nie wpływa na pozycje danego elementu.
 - Po przesunięciu ustawia sie względem swojej pozycji starowej.
 - Można wykorzystywać do przesuwania *transform: translateX/translateY(px).
-<br/>
+
 ### position: absolute; ###
 _Sprawia że dany element wyskakuje z normalnego porządku na stronie._   
 **.klasa {   
