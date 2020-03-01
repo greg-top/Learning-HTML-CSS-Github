@@ -14,6 +14,7 @@ _Daje możliwość manipulowania danego elementu nie zależnie od jego markapem.
 
 ### position: absolute; ###
 _Sprawia że dany element wyskakuje z normalnego porządku na stronie._   
+* nie działa z-index:
 **.klasa {   
     position: absolute;   
     top:;   
